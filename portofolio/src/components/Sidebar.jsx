@@ -6,6 +6,7 @@ import avatar from "../img/vera_cruz.jpg"
 import "../styles/components/sidebar.sass"
 
 const Sidebar = () => {
+
   return (
     <aside id="sidebar">
       <div className="sidebar-imgBox">
